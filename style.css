@@ -9,11 +9,13 @@ h1 {
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
+    font-weight: bolder;
 }
 
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
+    font-weight: bolder;
 }
 
 h3 {
